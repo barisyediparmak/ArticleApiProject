@@ -19,3 +19,7 @@ C:\Users\Administrator\source\repos\ArticleApiProject\ArticleApi\bin\Debug\netco
 C:\Users\Administrator\source\repos\ArticleApiProject\ArticleApi\bin\Debug\netcoreapp2.2\Core.pdb
 C:\Users\Administrator\source\repos\ArticleApiProject\ArticleApi\bin\Debug\netcoreapp2.2\Entities.pdb
 C:\Users\Administrator\source\repos\ArticleApiProject\ArticleApi\obj\Debug\netcoreapp2.2\ArticleApi.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ArticleApiProject\ArticleApi\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\Administrator\source\repos\ArticleApiProject\ArticleApi\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\Administrator\source\repos\ArticleApiProject\ArticleApi\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\Administrator\source\repos\ArticleApiProject\ArticleApi\bin\Debug\netcoreapp2.2\Common.pdb

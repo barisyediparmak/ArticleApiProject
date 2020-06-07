@@ -7,3 +7,12 @@ C:\Users\Administrator\source\repos\ArticleApiProject\Business\obj\Debug\netcore
 C:\Users\Administrator\source\repos\ArticleApiProject\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
 C:\Users\Administrator\source\repos\ArticleApiProject\Business\obj\Debug\netcoreapp2.2\Business.dll
 C:\Users\Administrator\source\repos\ArticleApiProject\Business\obj\Debug\netcoreapp2.2\Business.pdb
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\bin\Debug\netcoreapp2.2\Common.dll
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\bin\Debug\netcoreapp2.2\Core.dll
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\bin\Debug\netcoreapp2.2\DataAccess.dll
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\bin\Debug\netcoreapp2.2\Common.pdb
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\bin\Debug\netcoreapp2.2\DataAccess.pdb
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\bin\Debug\netcoreapp2.2\Core.pdb
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\obj\Debug\netcoreapp2.2\Business.csproj.CopyComplete
