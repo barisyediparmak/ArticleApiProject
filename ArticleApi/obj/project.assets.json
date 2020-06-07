@@ -4442,6 +4442,9 @@
       "Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.2"
+        },
         "compile": {
           "bin/placeholder/Core.dll": {}
         },

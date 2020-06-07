@@ -502,6 +502,9 @@
         }
       },
       "Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.2"
+        },
         "runtime": {
           "Core.dll": {}
         }
