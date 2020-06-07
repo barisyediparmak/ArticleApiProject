@@ -19,8 +19,8 @@ namespace WebApi.Controllers
             _articleService = articleService;
         }
 
-        [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        [HttpGet("List")]
+        public ActionResult<IEnumerable<string>> List()
         {
             var result = _articleService.List();
 
