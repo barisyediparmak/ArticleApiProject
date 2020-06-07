@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\bin\Debug\netcoreapp2.2\Business.deps.json
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\bin\Debug\netcoreapp2.2\Business.dll
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\bin\Debug\netcoreapp2.2\Business.pdb
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\obj\Debug\netcoreapp2.2\Business.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\obj\Debug\netcoreapp2.2\Business.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\obj\Debug\netcoreapp2.2\Business.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\obj\Debug\netcoreapp2.2\Business.dll
+C:\Users\Administrator\source\repos\ArticleApiProject\Business\obj\Debug\netcoreapp2.2\Business.pdb
